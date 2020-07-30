@@ -45,7 +45,7 @@ import (
 	"github.com/filecoin-project/lotus/node/modules/dtypes"
 	"github.com/filecoin-project/lotus/node/repo"
 	"github.com/filecoin-project/lotus/storage"
-	sealing "github.com/filecoin-project/storage-fsm"
+	sealing "github.com/WBQ1995/storage-fsm"
 )
 
 var initCmd = &cli.Command{

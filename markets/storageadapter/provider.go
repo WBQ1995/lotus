@@ -32,7 +32,7 @@ import (
 	"github.com/filecoin-project/lotus/markets/utils"
 	"github.com/filecoin-project/lotus/node/modules/dtypes"
 	"github.com/filecoin-project/lotus/storage/sectorblocks"
-	sealing "github.com/filecoin-project/storage-fsm"
+	sealing "github.com/WBQ1995/storage-fsm"
 )
 
 var log = logging.Logger("storageadapter")

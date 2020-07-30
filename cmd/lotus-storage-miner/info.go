@@ -13,7 +13,7 @@ import (
 
 	"github.com/filecoin-project/specs-actors/actors/builtin/miner"
 	"github.com/filecoin-project/specs-actors/actors/builtin/power"
-	sealing "github.com/filecoin-project/storage-fsm"
+	sealing "github.com/WBQ1995/storage-fsm"
 
 	"github.com/filecoin-project/lotus/api"
 	"github.com/filecoin-project/lotus/build"
